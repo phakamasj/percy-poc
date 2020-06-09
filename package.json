@@ -1,0 +1,12 @@
+{
+  "name": "percy-poc",
+  "version": "1.0.0",
+  "repository": "https://github.com/phakamasj/percy-poc.git",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@percy/cypress": "^2.3.1",
+    "@testing-library/cypress": "^6.0.0",
+    "cypress": "^4.8.0"
+  }
+}
